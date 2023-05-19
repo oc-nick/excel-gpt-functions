@@ -2,7 +2,7 @@
 
 These are some example functions for integrating GPT calls into Excel functions
 
-CC_functions.vb includes two functions for extracting and removing credit card data from a given string (or cell). Utilizes the text-davinci-003 completions API.
+[CC_functions.vb](/CC_functions.vb) includes two functions for extracting and removing credit card data from a given string (or cell). Utilizes the text-davinci-003 completions API.
 
 
 ### Instructions
